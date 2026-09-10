@@ -8,13 +8,11 @@
 **Soluciones Móviles II · SI-988**
 
 **Nombre de la dinámica:** El pedido que se creó dos veces<br>
-**Semana:** 04 · **Unidad:** I · **Grupo N.º:** [COMPLETAR]
+**Semana:** 04 · **Unidad:** I · **Modalidad:** Individual
 
-**Integrantes:**
+**Estudiante:**
 
-- [APELLIDOS, nombres · código]
-- [APELLIDOS, nombres · código]
-- [APELLIDOS, nombres · código]
+- COLQUE PONCE, Sergio · 2022073503
 
 **Docente:** Dr. Oscar Juan Jimenez Flores<br>
 **Tacna, Perú · 2026**
